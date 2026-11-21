@@ -73,7 +73,7 @@ src/
 ```bash
 # Cloner le repository
 git clone [url-du-repo]
-cd sportsee
+cd OC-DIA-P6-SportSee
 
 # Installer les dépendances
 yarn install
